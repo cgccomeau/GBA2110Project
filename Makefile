@@ -1,7 +1,7 @@
 ################################################################################
 # These are variables for the GBA toolchain build
 # You can add others if you wish to
-# ***** YOUR NAME HERE *****
+# ***** Charlie Comeau *****
 ################################################################################
 
 # TA-TODO: Put your game name here.
